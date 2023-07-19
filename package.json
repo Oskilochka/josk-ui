@@ -1,5 +1,5 @@
 {
-  "name": "joui",
+  "name": "josk-ui",
   "version": "1.0.0",
   "description": "react library with reusable ui component",
   "main": "index.js",
