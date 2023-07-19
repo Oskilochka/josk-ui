@@ -23,6 +23,7 @@
     "stylelint-no-unsupported-browser-features": "7.0.0",
     "stylelint-config-css-modules": "4.3.0",
     "stylelint-config-idiomatic-order": "9.0.0",
+    "stylelint-semantic-groups": "1.2.0",
     "typescript": "5.1.6"
   },
   "peerDependencies": {
@@ -34,9 +35,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router": "6.8.2",
-    "react-router-dom": "6.8.2",
-    "stylelint-scss": "5.0.1",
-    "stylelint-semantic-groups": "1.2.0"
+    "react-router-dom": "6.8.2"
   },
   "compilerOptions": {
     "baseUrl": "src"
